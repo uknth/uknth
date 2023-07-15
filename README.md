@@ -1,6 +1,6 @@
 ### Hello 👋 Ujjwal here!
 
-Engineer, software architect, gamer, wannabe guitarist! 😄
+Engineer, gamer, wannabe guitarist! 😄
 
 📫  Find me at https://uknth.me
 
