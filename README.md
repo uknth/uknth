@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋 Ujjwal here!
+
+Engineer, software architect, gamer, wannabe guitarist! 😄
+
+📫  Find me at https://uknth.me
 
 <!--
 **uknth/uknth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
