@@ -3,6 +3,7 @@
 Engineer, gamer, wannabe guitarist! 😄
 
 📫  Find me at https://uknth.me
+🖥️  Code at https://sr.ht/~uknth/
 
 <!--
 **uknth/uknth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
